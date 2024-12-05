@@ -61,7 +61,6 @@ You should see the URL Shortener page where you can input long URLs to be shorte
 ## How to Use 📑
 
 1. **Shorten a URL:**
-   - Go to the homepage.
    - Enter the original URL in the input field.
    - Click on the "Make it Short" button to get a shortened URL.
 
@@ -71,8 +70,6 @@ You should see the URL Shortener page where you can input long URLs to be shorte
 
 
 ## Note ℹ️
-
-- This project has already been deployed to Vercel. You can access the application directly from the deployed link.
 - Ensure that the database (`thoede_urlshort`) is properly configured before using the application.
 
 ## License ⚖️ 
