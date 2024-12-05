@@ -29,7 +29,7 @@ Simple URL Shortener using PHP and MySQL
 
 First, clone the repository :
 ``` bash
-git clone [https://github.com/yourusername/urlshortener.git](https://github.com/Thoede/URL-Shortener)
+git clone https://github.com/Thoede/URL-Shortener
 ```
 cd urlshortener
 
