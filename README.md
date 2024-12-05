@@ -2,13 +2,13 @@
 
 Simple URL Shortener using PHP and MySQL
 
-## Requirement
+## Requirement 🖥️
 
 - PHP 7.0 +
 - MySQL or MariaDB.
 - Local Server (XAMPP).
 
-## Project Structure
+## Project Structure 📁
 
 - `shorting.php`
 - `redirect.php`
@@ -16,14 +16,14 @@ Simple URL Shortener using PHP and MySQL
 - `style.css`
 - `database.sql`
   
-## Database Structure
+## Database Structure 🗄️
 
 - `id`
 - `short_code`
 - `original_url`
 - `created`
 
-## How to Use
+## How to Use 📑
 
 1. **Shorten a URL:**
    - Go to the homepage.
@@ -35,11 +35,11 @@ Simple URL Shortener using PHP and MySQL
    - You will be automatically redirected to the original URL.
 
 
-## Note
+## Note ℹ️
 
 - This project has already been deployed to Vercel. You can access the application directly from the deployed link.
 - Ensure that the database (`thoede_urlshort`) is properly configured before using the application.
 
-## License
+## License ⚖️ 
 
 This project is licensed under the MIT License.
